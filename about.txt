@@ -1,0 +1,5 @@
+Mercy
+BSc- computer Science
+Git is a version control system but it is offline (local)
+GitHub is online
+GitHub is a platform to create a repositories and to upload a files in it.
